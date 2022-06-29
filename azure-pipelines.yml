@@ -6,7 +6,7 @@
 
 resources:
   repositories:
-    - repository: lpmatos
+    - repository: hello
       type: github
       endpoint: github
       name: hello/azure-pipelines
