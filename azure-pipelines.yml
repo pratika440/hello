@@ -9,5 +9,5 @@ resources:
     - repository: lpmatos
       type: github
       endpoint: github
-      name: lpmatos/azure-pipelines
+      name: hello/azure-pipelines
       ref: 'refs/heads/master'
